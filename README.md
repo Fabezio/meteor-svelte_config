@@ -7,7 +7,6 @@ Before, there are things to handle:
 - bootstrap is the default css framework, once more you comment or delete it two ways:
     - inside file (if you wanna change automation),
     - or inside client/main.html file.
-- markdown is included
 
 Here are the steps to install it:
 1. open a terminal and 'cd' to you meteor folder.
