@@ -11,6 +11,6 @@ before, there are things to handle:
 here are the steps to install it:
 1. open a terminal and 'cd' to you meteor folder.
 2. clone or download the repo content into your chosen folder.
-3. enter *./newapp* followed by your project name.
+3. enter *./newapp.sh* followed by your project name.
 of course you may modify it for wour own usage.
 then if you have any questions, simply contact me to [fabezio@outlook.fr](fabezio@outlook.fr)
