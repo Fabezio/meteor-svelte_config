@@ -3,7 +3,7 @@
 
 Its filename is *newapp.sh*.  
 Before, there are a few things to handle:
-    - it was written for ***linux/BSD/MAC*** (! a mere bash file :smile:)
+    - it was written for ***linux/BSD/MAC*** (! a mere bash file :wink:)
     - the default path is your home one followed by *Appdev_web/meteor-svelte*. You may easily change this inside the path name (named $mypath);
     - bootstrap is the default css framework, once more you comment or delete it two ways:
         - inside file (if you wanna change automation),
